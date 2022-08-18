@@ -1,3 +1,12 @@
+# Digicard
+
+Hola!
+A static digital card component built with React
+Adios!
+😊
+    
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
