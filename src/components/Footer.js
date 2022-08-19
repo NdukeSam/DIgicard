@@ -8,10 +8,10 @@ function Footer() {
   return (
     <div className="card">
       <div className="Footer">
-        <TwitterIcon />
-        <FacebookOutlinedIcon />
-        <InstagramIcon />
-        <GitHubIcon />
+        <a href="https://twitter.com/samnduke" target="_blank"><TwitterIcon /></a> 
+        <a href="https://www.facebook.com/diamond.sam.79/" target="_blank"><FacebookOutlinedIcon /></a> 
+        <a href="https://www.instagram.com/ndukesam/" target="_blank"><InstagramIcon /></a> 
+        <a href="https://github.com/NdukeSam" target="_blank"><GitHubIcon /></a> 
       </div>
     </div>
   );
