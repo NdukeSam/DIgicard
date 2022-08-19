@@ -24,7 +24,7 @@ body {
   width: 317px;
   height: auto;
   margin: 0 auto;
-  border-radius: 12px;
+  background: #1A1B21;
 }
 
 .img--container{
@@ -62,7 +62,7 @@ body {
   height: 34px;
   width: 115px;
   border-radius: 6px;
-  padding: 9px 13px 9px 11px;
+  padding: 9px 18px 9px 11px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 500;
@@ -71,6 +71,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  border: none;
+  outline: none;
 }
 
 .btn--linkedin {
@@ -85,4 +87,26 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: none;
+  outline: none;
+  }
+
+  .--h3{
+    padding-top: 25px;
+  }
+
+  .Footer {
+    display: flex;
+    justify-content: space-around;
+    background: #161619;
+    padding: 30px;
+    border-radius: 0 0 13px 13px;
+  }
+
+  .About, .Interest{
+    background: #1A1B21;
+    padding: 0 20px;
   }
